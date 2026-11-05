@@ -1,16 +1,33 @@
-## Hi there 👋
+# Fabian Williams
 
-<!--
-**fabian-williams/fabian-williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+Building intelligent systems, exploring modern AI technologies, and developing reliable Python software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- Based in the United States
+- Focused on Python engineering and practical AI applications
+- Interested in machine learning, intelligent automation, and open-source software
+- Building and documenting projects with an emphasis on clean, maintainable code
+
+### Areas of Focus
+
+- **Python Engineering:** APIs, automation, testing, and software architecture
+- **Artificial Intelligence:** Machine learning, model evaluation, and data workflows
+- **Intelligent Applications:** LLM integrations, retrieval systems, and AI agents
+- **Developer Tools:** Git, GitHub, and reproducible development workflows
+
+### Projects
+
+Projects and technical experiments will be featured here as they are published.
+
+### Open Source
+
+Exploring ideas, documenting implementations, and contributing to practical software projects.
+
+---
+
+*Build thoughtfully. Test rigorously. Keep learning.*
